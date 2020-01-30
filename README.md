@@ -1,24 +1,39 @@
-# README
+# App do segundo roteiro da disciplina de Web II
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Dupla: Henrique Couto e Letícia Rocha
 
-Things you may want to cover:
+Link Heroku: https://segundo-app-ruby.herokuapp.com/
 
-* Ruby version
+## Respostas
 
-* System dependencies
+### 11.
 
-* Configuration
+As ações Início e Ajuda sem nenhum conteúdo.
 
-* Database creation
+### 12.
 
-* Database initialization
+ajuda.html.erb e inicio.html.erb.
 
-* How to run the test suite
+### 14.
 
-* Services (job queues, cache servers, search engines, etc.)
+2 testes.
 
-* Deployment instructions
+### 15.
 
-* ...
+2 testes realizados. 2 verificações realizadas. 0 erros.
+
+### 16.
+
+A mensagem de erro indica que não existe paginas_estaticas_sobre_url
+
+### 17.
+
+A mensagem de erro indica que não existe nenhuma ação chamada sobre no controller
+
+### 18.
+
+A mensagem de erro indica que não existe template para a ação sobre
+
+### 20.
+
+Não existem erros.
