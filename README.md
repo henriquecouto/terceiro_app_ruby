@@ -2,7 +2,7 @@
 
 Dupla: Henrique Couto e Letícia Rocha
 
-Link Heroku: https://segundo-app-ruby.herokuapp.com/
+Link Heroku: https://terceiro-app-ruby.herokuapp.com/
 
 ## Respostas
 
