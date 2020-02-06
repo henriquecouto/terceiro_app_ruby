@@ -37,3 +37,17 @@ A mensagem de erro indica que não existe template para a ação sobre
 ### 20.
 
 Não existem erros.
+
+## Respostas Roteiro 4
+
+### 2.
+
+Deu erro em todos os testes pois o atributo `title` não deu match entre o que foi recebido e o que era esperado.
+
+### 3.
+
+Os testes passaram com sucesso
+
+### 6.
+
+Nenhum erro foi reportado
